@@ -4,4 +4,4 @@ Taxi is the pickup time in a day extracted from January 2018, New York Taxi data
 
 Retirement is extracted from the San Francisco employee retirement system plans, which contain the salary and benefits paid to employees of the city since the fiscal year 2013. https://www.kaggle.com/datasets/san-francisco/sf-employee-compensation
 
-Code: We mainly provide codes for mean estimation with PM and SW. You can run list.m to obtain the results of different kinds of attacks on four datasets. Distribution_discrete_EM33.m provides the visualization results of the filter, which provide the estimated normal and poison value distributions in two subfigues.
+Code: We mainly provide codes for mean estimation with PM and SW. You can run list.m to obtain the results of different kinds of attacks on four datasets. Distribution_discrete_EM33.m provides the visualization results of the filter, which provides the estimated normal and poison value distributions in two subfigues.
