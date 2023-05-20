@@ -6,4 +6,4 @@ Taxi is the pickup time in a day extracted from January 2018, New York Taxi data
 
 Retirement is extracted from the San Francisco employee retirement system plans, which contain the salary and benefits paid to employees of the city since the fiscal year 2013. https://www.kaggle.com/datasets/san-francisco/sf-employee-compensation
 
-
+To run the entire process, please click on "list.m" in DAP_code_sharing.rar to obtain all results. The list1-4.m files represent different datasets, and the code that mainly uses the EMF algorithm can be found in EMF.m, REMF.m, and REMFII.m.
